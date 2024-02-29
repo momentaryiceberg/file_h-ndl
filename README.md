@@ -1,0 +1,3 @@
+# File Höndl
+## Ýmis function hvað fæl höndl varða
+Condense-a þetta eitthvað, mögulega niður í módúl...
